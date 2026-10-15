@@ -61,7 +61,7 @@ jekyll_compose:
 number_of_posts: 5
 
 # Build settings
-theme: klise
+# theme: klise
 sass:
   style: compressed
 
@@ -87,4 +87,4 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  # - jekyll-postfiles
+  - jekyll-postfiles

@@ -2,3 +2,7 @@
 ---
 
 @import "main";
+
+body[data-theme="dark"] {
+  background-color: #340759; 
+}

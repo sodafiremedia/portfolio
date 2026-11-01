@@ -15,4 +15,4 @@ My contact information is below if you would like to send me a question, comment
 
 🇵🇸 💜 🌺
 
-<a href="mailto:srfinkel@gmail.com" id="contact">Contact srfinkel@gmail.com</a>
+Contact <a href="mailto:srfinkel@gmail.com" id="contact">srfinkel@gmail.com</a>

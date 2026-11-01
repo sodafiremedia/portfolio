@@ -5,7 +5,7 @@ tags: [graphic design, photography]
 description: My life as a graphic designer
 ---
 
-![Graphic Design](/assets/img/posts/graphic-design/20151216_151122.jpg)
+![Graphic Design](/assets/img/posts/graphic-design/CCA-36-drive.jpg)
 Campaign design for CCA's 36th year
 
 ![Graphic Design](/assets/img/posts/graphic-design/CCA-LandMarkCatalouge_CoverFolded.jpg)

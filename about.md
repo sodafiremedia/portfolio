@@ -15,5 +15,4 @@ My contact information is below if you would like to send me a question, comment
 
 🇵🇸 💜 🌺
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+<a href="mailto:srfinkel@gmail.com" id="contact">Contact srfinkel@gmail.com</a>
